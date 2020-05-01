@@ -1,4 +1,7 @@
-# LIBERAR EMAIL https://www.google.com/settings/security/lesssecureapps
+# LIBERAR EMAIL 
+
+**Allow mail if use Google Gmail**
+https://www.google.com/settings/security/lesssecureapps
 
 # Dependencias Linux
 sudo apt install wkhtmltopdf python-pip3 xvfb

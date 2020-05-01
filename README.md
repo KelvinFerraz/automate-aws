@@ -5,3 +5,6 @@ sudo apt install wkhtmltopdf python-pip3 xvfb
 
 # dependencias pip3
 sudo pip3 install -r requiriments.txt
+
+# Create folders
+mkdir {img,logs,pdfs}
